@@ -7,8 +7,9 @@
 ## 补充
 
 对linonetwo的源文件重新进行了切割和重新生成pdf 以便于阅读
-新生成的pdf，放在了源代码里以供下载
-懒得生成release了
+新生成的pdf，同样放在了release里
+请直接点击 [矢波日语.pdf](https://github.com/kkjb/yaba-japanese/releases/download/2.0/default.pdf) 下载
+
 
 ## 介绍
 
