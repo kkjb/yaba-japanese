@@ -4,6 +4,12 @@
 
 《矢波日语》 关永昌 张慧琴 关树暄 著
 
+## 补充
+
+对linonetwo的源文件重新进行了切割和重新生成pdf 以便于阅读
+新生成的pdf，放在了源代码里以供下载
+懒得生成release了
+
 ## 介绍
 
 详情介绍见：[如何评价「日文里有汉字，没学过也能大概看得懂」这类说法？ - 小德的回答 - 知乎](https://www.zhihu.com/question/44769704/answer/773550786)
@@ -11,13 +17,13 @@
 矢波日语扫描版，感谢[小德](https://www.zhihu.com/people/guo-wei-12-52)提供的珍贵原书，以及[叶痕](https://www.zhihu.com/people/murata/activities)提供的分页扫描件。
 
 ## 下载地址
-
+[DEL]
 [Release](https://github.com/linonetwo/yaba-japanese/releases)，点开 Assets 可看到 default.pdf
 
 或直接点击 [矢波日语.pdf](https://github.com/linonetwo/yaba-japanese/releases/download/v1.0/default.pdf) 下载
 
 百度网盘链接:https://pan.baidu.com/s/1sTMam4A9u4on6ab2d9VrAA  密码:f38j
-
+[/DEL]
 ## 序言
 
 由于掌握一门外语往往需要拿出「铁杵磨绣针」的耐心和恒心，特别是非专业外语没有十来年的不懈努力往往口不能讲，笔不能译。所以长久以来人们一直在寻找外语学习的捷径，并且也不同程度地发现和总结出一些行之有效的方法，在实际教学和应用中取得了良好的效果。而对和汉语有着相同相近的词形和词义的日语，人们自然看到学习相对容易的一面，但是日语由于语法繁琐，尤其是动词词尾变化复杂，所以就被挂上一个「学习日语笑着进去哭着出来」的不大光彩的「幌子」。尽管国内外许多学者也推出了一些可圈可点的日语速成法，但是，总的来说基本上都是在传统语法的统治下讨生活，在繁琐的语法特别是动词词尾变化面前却都有心变革，无力回天。
